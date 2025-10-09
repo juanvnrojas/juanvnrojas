@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <h1>👨‍💻 Estudante de Desenvolvimento de Sistemas 👨‍💻</h1> 
+  
+  <p>Desenvolvedor em formação, sofrendo com código desde o Ensino Médio Técnico.</p>
+</div>
 
-<!--
-**juanvnrojas/juanvnrojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO-DO-GITHUB&theme=gruvbox&row=1&column=7"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Minhas Ferramentas e Tecnologias</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,vscode" />
+  </div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350px">
+</div>
