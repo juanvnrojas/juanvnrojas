@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👨‍💻 Estudante de Desenvolvimento de Sistemas 👨‍💻</h1> 
   
-  <p>Desenvolvedor em formação, sofrendo com código desde o Ensino Médio Técnico.</p>
+  <p>Desenvolvedor em formação, sofrendo com código desde o Ensino Médio Integrado.</p>
 </div>
 
 <br>
