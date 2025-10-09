@@ -26,5 +26,5 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350px">
+  <img src="https://professorlotus.com/Sprites/Magnezone.gif" width="350px">
 </div>
