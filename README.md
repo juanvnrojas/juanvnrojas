@@ -13,7 +13,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=juanvnrojas&theme=dracula&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=juanvnrojas&theme=dracula&row=1&column=7 "/>
 </div>
 
 <br>
